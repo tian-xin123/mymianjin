@@ -1,0 +1,1 @@
+import{t as e}from"./request-_JOEXu8t.js";const t=t=>e.post(`/h5/user/register`,t),n=t=>e.post(`/h5/user/login`,t);export{t as n,n as t};
